@@ -1,0 +1,180 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Google Brand Colors CSS Variables */
+:root {
+  --google-blue: #4285F4;
+  --google-red: #EA4335;
+  --google-yellow: #FBBC04;
+  --google-green: #34A853;
+  --google-purple: #9C27B0;
+  --google-teal: #00BCD4;
+  --google-orange: #FF9800;
+}
+
+/* Dark Theme Base */
+body {
+  background-color: #111827 !important;
+  color: #F9FAFB !important;
+}
+
+/* Custom Google Brand Color Classes */
+.bg-google-blue { background-color: var(--google-blue) !important; }
+.bg-google-red { background-color: var(--google-red) !important; }
+.bg-google-yellow { background-color: var(--google-yellow) !important; }
+.bg-google-green { background-color: var(--google-green) !important; }
+.bg-google-purple { background-color: var(--google-purple) !important; }
+.bg-google-teal { background-color: var(--google-teal) !important; }
+.bg-google-orange { background-color: var(--google-orange) !important; }
+
+.text-google-blue { color: var(--google-blue) !important; }
+.text-google-red { color: var(--google-red) !important; }
+.text-google-yellow { color: var(--google-yellow) !important; }
+.text-google-green { color: var(--google-green) !important; }
+.text-google-purple { color: var(--google-purple) !important; }
+.text-google-teal { color: var(--google-teal) !important; }
+.text-google-orange { color: var(--google-orange) !important; }
+
+/* Dark Theme Backgrounds */
+.bg-dark-primary { background-color: #111827 !important; }
+.bg-dark-secondary { background-color: #1F2937 !important; }
+.bg-dark-card { background-color: #374151 !important; }
+.text-dark-primary { color: #F9FAFB !important; }
+.text-dark-secondary { color: #D1D5DB !important; }
+.border-dark { border-color: #4B5563 !important; }
+
+/* Enhanced Animations */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.1);
+  }
+}
+
+.animate-pulse-dot {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Hover Animations for Cards */
+.metric-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.metric-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Custom scrollbar for tables */
+.overflow-x-auto::-webkit-scrollbar {
+  height: 6px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Improved hover effects */
+.hover\:bg-gray-50:hover {
+  transition: background-color 0.15s ease-in-out;
+}
+
+/* Better focus styles */
+.focus\:ring-2:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
+
+/* Loading animation */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Chart responsiveness */
+.recharts-responsive-container {
+  width: 100% !important;
+}
+
+/* Improved table styling */
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: none;
+}
+
+/* Better button hover effects */
+button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+/* Card hover effects */
+.shadow-sm:hover {
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  transition: box-shadow 0.3s ease-in-out;
+}

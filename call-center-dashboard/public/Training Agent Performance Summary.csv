@@ -1,0 +1,193 @@
+Interval Start,Interval End,Interval Complete,Filters,Media Type,Agent Id,Agent Name,Group,Answered,Avg Handle,Avg Talk,Avg Hold,Avg ACW,Held,Transferred,Department,Avg Hold Handled
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,04726675-744e-406b-a595-b99cd2adbadd,1 - New Hire Skills and Queues Template,All ISPN Technicians,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,7ba16051-5d30-4475-9628-556e7db17c70,Aaron Muccino,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),388, 00:14:33.768, 00:14:01.038, 00:01:59.232, 00:00:14.987,93,47,Tech Center, 00:00:25.490
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ed47a1be-c19c-476d-af81-c1f19228c371,Adrian Yip,All ISPN Technicians; All ISPN Employee's,517, 00:12:07.308, 00:12:05.228, 00:01:47.260, 00:00:15.000,156,39,Tech Center, 00:00:22.339
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b90586a3-d64a-4f98-be5b-4df52244a067,Adrien Banuelos,All ISPN Technicians; All ISPN Employee's,375, 00:16:31.461, 00:16:30.905, 00:01:56.909, 00:00:14.978,44,21,Tech Center, 00:00:10.944
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,5d2f889d-e464-4fee-b6d5-107eb5dcc1e3,Alex Shebanov,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,e2242639-7d8b-4267-bdcf-69be23f0a34f,Alex Stover,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),250, 00:08:03.752, 00:07:22.765, 00:02:10.576, 00:00:15.000,60,29,Tech Center, 00:00:27.298
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,57a6e959-c923-448d-91ed-492ca392477a,Alexander Moran,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians); Backline,2, 00:02:16.718, 00:01:53.918, 00:02:31.232, 00:00:15.000,2,5,Tech Center, 00:00:02.541
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6f706d2d-f6be-440c-bdb6-e84c83bbc219,Alvaro Solis,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),531, 00:10:01.484, 00:08:13.391, 00:03:09.308, 00:00:14.921,370,79,Tech Center, 00:01:49.103
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3e5e4721-2234-489b-bd4c-c9e70f476acd,Annie Pedrino,Live Pro Test Group; All ISPN Technicians; All ISPN Employee's; Backline,, 00:26:13.284, 00:26:10.719,,,,1,QC,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3c9f6487-020e-473a-9fea-07da41bb9dc8,Armando Suarez Hernandez,All ISPN Technicians; All ISPN Employee's,215, 00:16:45.830, 00:15:04.236, 00:03:42.570, 00:00:15.000,109,8,Tech Center, 00:01:35.137
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ef7995f5-a288-41ed-83b5-e484b4e7744e,Arron Hupala,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),509, 00:06:47.136, 00:06:20.118, 00:02:25.827, 00:00:14.992,47,5,Tech Center, 00:00:13.030
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,bd15fa52-6846-4048-b941-c7b7faf60d03,Austin Frese,All ISPN Technicians; All ISPN Employee's,283, 00:15:26.817, 00:14:42.122, 00:02:12.237, 00:00:15.000,90,22,Tech Center, 00:00:32.876
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d6449965-3239-4234-9271-a78d11b61519,Austin Neemann,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's,465, 00:08:09.547, 00:05:32.229, 00:03:57.720, 00:00:14.896,310,30,Tech Center, 00:02:21.718
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0c957eb6-1c5a-417c-b68b-eb347785341c,Axel Munguia,All ISPN Technicians; All ISPN Employee's,631, 00:11:29.004, 00:10:51.179, 00:01:21.604, 00:00:15.000,301,36,Tech Center, 00:00:31.982
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,73e64d92-9e5a-4e65-bd14-e211b9a9bdd5,Ben Lantz,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),413, 00:08:47.994, 00:07:59.904, 00:02:33.561, 00:00:14.975,112,19,Tech Center, 00:00:36.907
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,f0e6b460-cf78-440c-97e5-4d71ab39999a,Billy McCuen,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),566, 00:10:38.178, 00:10:20.823, 00:02:19.486, 00:00:14.720,5,2,Tech Center, 00:00:01.093
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,abc18e80-b87e-4790-b86c-88581184a21b,Brad Rothgeb,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,2, 00:02:23.119, 00:01:47.807, 00:05:04.343, 00:00:15.000,3,5,Tech Center, 00:00:06.813
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,27a41abd-96a8-43d7-a563-4d7239882b62,Brandon Bellars,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),670, 00:07:39.004, 00:06:39.796, 00:02:15.527, 00:00:15.000,276,73,Tech Center, 00:00:47.469
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,41e64897-0138-40b6-b968-653ff08912d6,Brian Andersen,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),611, 00:09:05.132, 00:08:57.809, 00:00:50.508, 00:00:12.588,14,38,Tech Center, 00:00:00.868
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,8dbebe4b-6a40-4c8c-a351-975cf7cdca22,Brian Nicewander,All ISPN Technicians; All ISPN Employee's,631, 00:09:09.637, 00:09:20.031,, 00:00:15.000,,43,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,1e2bf386-15df-491e-a03f-166afa39b5ea,Brittany Rosenbaugh,All ISPN Technicians; All ISPN Employee's,552, 00:08:27.932, 00:07:51.745, 00:01:53.539, 00:00:14.579,124,75,Tech Center, 00:00:21.396
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,12be9ffd-ccb2-4a83-b596-cb0c82c0bbdb,Bryan Renner,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),415, 00:10:08.786, 00:07:56.182, 00:03:51.690, 00:00:15.000,259,54,Tech Center, 00:02:02.966
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,88ed4421-41aa-41f6-869f-86ab44e0df9a,Cale Schmitz,All ISPN Technicians; All ISPN Employee's,512, 00:12:52.035, 00:12:45.078, 00:00:43.522, 00:00:14.351,35,22,Tech Center, 00:00:02.380
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,64106c03-3c5e-47d7-b01f-ba47d43dd05a,Camden McKinney,All ISPN Technicians; All ISPN Employee's,660, 00:08:47.916, 00:08:29.592, 00:01:55.182, 00:00:15.000,53,19,Tech Center, 00:00:08.139
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b85690c1-5661-4d2f-a2ea-5dfadcd67042,Cameron Keyton,Live Pro Test Group; All ISPN Employee's; Backline,16, 00:03:22.702, 00:03:05.412, 00:01:25.499, 00:00:14.956,2,1,Tech Center, 00:00:00.508
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,082846f0-dec0-4fbf-b54b-43f62e5d186f,Cameron Rensing,All ISPN Technicians; All ISPN Employee's,639, 00:11:11.297, 00:10:58.940, 00:01:49.995, 00:00:15.000,3,55,Tech Center, 00:00:00.450
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,df68a33f-1d95-41f7-908b-610a74974488,Carlos Giraudy,Live Pro Test Group; All ISPN Technicians; All ISPN Employee's; Backline,11, 00:02:59.788, 00:02:25.271, 00:03:42.290, 00:00:15.000,2,1,Tech Center, 00:00:17.783
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6f0781ab-8aa7-4f47-a856-3eb40b5ba5a5,Caroline Farmer,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,814d32a8-a784-4fbf-970c-a8444223a5eb,Cayleigh Thalmann,All ISPN Technicians; All ISPN Employee's,280, 00:15:24.533, 00:14:00.558, 00:03:14.488, 00:00:15.000,191,16,Tech Center, 00:01:39.059
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,39529b46-25e4-457f-92cc-3869a70305a6,Charles Sanders,All ISPN Technicians; All ISPN Employee's,460, 00:12:24.756, 00:10:16.825, 00:02:54.182, 00:00:15.000,362,11,Tech Center, 00:01:59.646
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6cb94cd2-07f9-424e-aa1b-377776443b15,Chase Leporin,All ISPN Technicians; All ISPN Employee's,590, 00:09:17.349, 00:08:07.120, 00:01:50.247, 00:00:15.000,360,32,Tech Center, 00:00:58.280
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,1fad5eeb-2ee3-4f35-9aa7-c17717cfd3ac,Chris Simon,All ISPN Technicians; All ISPN Employee's,120, 00:13:49.444, 00:13:33.929, 00:02:51.049, 00:00:15.000,2,7,Tech Center, 00:00:02.265
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,9467bd14-5dcd-4904-9a3e-c52a8113eb00,Chuck Dionne,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,5, 00:01:50.360, 00:01:33.043, 00:01:12.682, 00:00:14.484,3,8,Tech Center, 00:00:01.172
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3d3a0972-0c44-4918-81ed-e56d41e97ce6,Codey Santi-Mendoza,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),317, 00:10:03.512, 00:09:40.120, 00:01:50.689, 00:00:15.000,67,15,Tech Center, 00:00:17.913
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,7e873624-69d5-41ac-a064-09e1116f20e8,Cole Crews,All ISPN Technicians; All ISPN Employee's,568, 00:09:45.599, 00:09:52.280, 00:00:19.140, 00:00:14.991,68,30,Tech Center, 00:00:01.560
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6bb72de8-aa4f-4b91-81c7-8cf7bc75826f,Corben Ross,All ISPN Technicians; All ISPN Employee's,694, 00:09:15.560, 00:09:07.637, 00:00:10.444, 00:00:14.988,4,40,Tech Center, 00:00:00.053
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,eecb7f22-7bce-48b7-9759-98f40b9f9451,Dan Ring,All ISPN Technicians; All ISPN Employee's,584, 00:08:53.823, 00:08:48.004, 00:00:10.875, 00:00:14.891,2,40,Tech Center, 00:00:00.032
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3407be99-888c-4629-a077-aab9d3ac721a,Daniel Halvorsen,All ISPN Technicians; All ISPN Employee's,504, 00:08:51.253, 00:07:56.233, 00:02:13.164, 00:00:15.000,178,34,Tech Center, 00:00:40.587
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0d6bb848-da23-4b20-8165-eff3894c3a5f,Daniel Motto,All ISPN Technicians; All ISPN Employee's,711, 00:10:06.354, 00:10:01.034, 00:00:17.612, 00:00:15.000,164,99,Tech Center, 00:00:03.167
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a37f161e-0740-45cf-8111-9f96b7e9ffb6,Daniel Politte,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),564, 00:08:19.746, 00:07:32.871, 00:02:01.040, 00:00:14.765,177,40,Tech Center, 00:00:32.758
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,fd1b46b3-2fd8-4213-8d9a-42115f89b792,Darren Oneil,All ISPN Technicians; All ISPN Employee's,543, 00:14:12.338, 00:12:14.623, 00:03:02.134, 00:00:14.970,382,16,Tech Center, 00:01:49.567
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,56cc080a-e558-498d-9af0-911d75ec1ed0,David Liao,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),544, 00:10:23.086, 00:09:05.341, 00:02:15.771, 00:00:15.000,314,23,Tech Center, 00:01:04.399
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,de7d1849-6868-4272-8765-618002312448,David McWilliams,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),622, 00:09:46.219, 00:09:01.418, 00:01:53.437, 00:00:14.988,190,53,Tech Center, 00:00:29.769
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,5fc2c90a-42d7-49f5-bf89-a13acd3ca81b,David Phillips,All ISPN Technicians; All ISPN Employee's,434, 00:10:34.470, 00:10:23.397, 00:00:23.554, 00:00:14.978,2,28,Tech Center, 00:00:00.091
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,9c22677c-4c94-4c69-b740-bf05d18c957a,Davis Nguyen,All ISPN Technicians; All ISPN Employee's,485, 00:11:29.130, 00:09:28.639, 00:03:24.868, 00:00:15.000,294,35,Tech Center, 00:01:48.525
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,96166b19-e759-4f92-a05d-61311ee19dce,Deren Hinckley,All ISPN Technicians; All ISPN Employee's,692, 00:07:51.303, 00:07:33.779, 00:01:32.730, 00:00:14.836,47,5,Tech Center, 00:00:05.857
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,dea52d15-8062-416a-8398-7f0fab1f017e,Deward Absher,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),501, 00:10:06.880, 00:09:51.884, 00:02:12.692, 00:00:14.769,12,3,Tech Center, 00:00:02.783
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,685369c6-6596-4944-b566-5edb1f16fa3d,Dez Zimmerman,All ISPN Technicians; All ISPN Employee's,363, 00:15:25.869, 00:15:26.617, 00:02:07.515, 00:00:15.000,8,18,Tech Center, 00:00:02.428
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,354d8366-fc8e-4d20-88de-9d1d82fa536d,Dom Graves,All ISPN Technicians; All ISPN Employee's,667, 00:09:47.781, 00:08:53.115, 00:01:50.240, 00:00:15.000,293,64,Tech Center, 00:00:41.464
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,933477f4-fc25-4c18-8947-2a4339206ce4,Dory Pattison,All ISPN Technicians; All ISPN Employee's,519, 00:09:55.135, 00:09:24.919, 00:02:29.750, 00:00:15.000,106,76,Tech Center, 00:00:27.946
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d3f7177a-6a36-4ec1-becc-f9b22c5e059f,Doug Hernandez,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,14, 00:03:54.175, 00:03:26.869, 00:02:36.147, 00:00:13.421,13,2,Tech Center, 00:00:09.620
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,852b4d6f-7fe2-4e55-a4a4-2ccfc83eb11f,Douglas Rasmussen,All ISPN Technicians; All ISPN Employee's,564, 00:06:47.968, 00:06:21.669, 00:01:59.567, 00:00:15.000,122,30,Tech Center, 00:00:12.818
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,050eb960-92a2-40f6-9f99-b82af48c90da,Dusty Brittingham,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,2, 00:01:55.582, 00:01:44.949, 00:01:16.189, 00:00:05.539,1,3,Tech Center, 00:00:00.725
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,9d49881d-4bb8-4674-aa91-bf4a95e1d0a3,Eli Bradley,All ISPN Technicians; All ISPN Employee's,528, 00:11:36.273, 00:11:27.940, 00:03:04.134, 00:00:14.849,16,46,Tech Center, 00:00:04.790
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,779d61bc-9856-4d43-914c-f08cc45786b0,Elvis Frazier,All ISPN Technicians; All ISPN Employee's,495, 00:15:47.965, 00:14:36.670, 00:02:23.482, 00:00:15.433,233,45,Tech Center, 00:01:00.674
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2359aeba-0402-4cac-a2ea-7a82f718eed9,Emily Stephens,Dan's Test Backline Group; All ISPN Technicians; All ISPN Employee's; Backline,, 00:01:15.473, 00:00:49.322,, 00:00:15.000,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,623d4259-5278-4b65-a18c-f1a33dc4e491,Emily Valentine,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),655, 00:07:05.150, 00:06:56.137, 00:00:03.075, 00:00:13.656,1,7,Tech Center, 00:00:00.003
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,92cb2aae-65b1-4ea5-8fdb-fece9c0ba3cb,Eric Helms,All ISPN Technicians; All ISPN Employee's; Backline,51, 00:10:12.644, 00:10:04.021, 00:01:27.654, 00:00:14.763,1,4,Tech Center, 00:00:01.043
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,12409309-d1e6-4cc8-bae8-0dab84d6fda9,Ethan Hammond,All ISPN Technicians; All ISPN Employee's,516, 00:11:00.258, 00:10:45.044, 00:01:43.765, 00:00:15.000,27,70,Tech Center, 00:00:04.716
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,851f2f07-de80-490e-be6b-8b7e4751797f,Ethan Kumke,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b941e03a-e8d8-481b-81f3-9e6a2ba303a8,Ezekiel Zeller,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),260, 00:08:06.527, 00:07:13.308, 00:02:11.216, 00:00:15.000,88,42,Tech Center, 00:00:37.612
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,69ed1bac-c148-466d-bfdd-9b90ecf08144,Francisco Guerrero,All ISPN Technicians; All ISPN Employee's,653, 00:10:25.734, 00:09:38.297, 00:01:57.570, 00:00:15.000,256,30,Tech Center, 00:00:38.936
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0e2682d4-8da5-4486-bb21-49588c978b61,Gabe Carter,All ISPN Technicians; All ISPN Employee's,585, 00:13:37.913, 00:13:23.343, 00:01:53.563, 00:00:15.000,26,6,Tech Center, 00:00:04.535
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,fcd250aa-2ca8-4d6e-b677-d1f4ca519671,Gabe Norman,All ISPN Technicians; All ISPN Employee's,351, 00:12:40.754, 00:12:27.561, 00:03:20.466, 00:00:14.884,27,31,Tech Center, 00:00:12.001
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,815d4fc3-0f3b-4639-b34c-99d5d47e809c,Gary Hurter,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,87394965-04aa-4473-8a8b-8231286bbf2c,Graem Murray,All ISPN Technicians; All ISPN Employee's; Backline,33, 00:03:09.468, 00:02:48.785, 00:01:45.875, 00:00:15.000,9,,Tech Center, 00:00:03.921
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,c12d02a2-8bad-4a54-b692-99c2355f4c3d,Harland Cooper,All ISPN Employee's; Backline,1, 00:02:04.113, 00:01:49.544, 00:00:09.981, 00:00:14.590,1,,Tech Center, 00:00:00.142
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ebcd8eda-e97c-4235-9983-931a0c288532,Hugo Santiago-Quinones,All ISPN Technicians; All ISPN Employee's,737, 00:08:03.822, 00:07:16.024, 00:01:55.227, 00:00:15.000,261,25,Tech Center, 00:00:36.234
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,72d0536a-7318-424a-b863-1bb06963ddc0,Ian Sehr,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),522, 00:08:02.986, 00:07:38.211, 00:01:50.805, 00:00:15.000,56,52,Tech Center, 00:00:08.851
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,1047cb5c-3a2d-435a-a712-9c2bd789365f,Isaiah Martin,All ISPN Technicians; All ISPN Employee's,585, 00:09:27.045, 00:08:53.627, 00:01:26.238, 00:00:15.000,157,35,Tech Center, 00:00:19.940
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,aad37cd7-d3bb-40fa-b7ca-65daca2d72c4,Jackie Fardal,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),407, 00:06:31.010, 00:04:58.840, 00:02:04.410, 00:00:15.000,253,1,Tech Center, 00:01:17.146
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a5db6e06-68cb-431e-ad00-5271a84cca3a,Jacob Hersh,All ISPN Technicians; All ISPN Employee's,522, 00:11:13.698, 00:10:30.920, 00:02:38.770, 00:00:14.989,161,48,Tech Center, 00:00:39.816
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,4dd5af28-38e4-4b94-822f-b60bc9d7773a,Jaden Gomez,All ISPN Technicians; All ISPN Employee's,665, 00:09:36.158, 00:08:54.049, 00:01:48.492, 00:00:14.914,206,81,Tech Center, 00:00:30.912
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b7362591-8425-4240-9f45-c7b571cc1d1e,Jake Anderson,All ISPN Technicians; All ISPN Employee's,582, 00:07:43.067, 00:07:19.538, 00:00:47.859, 00:00:15.000,154,60,Tech Center, 00:00:11.049
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,f0bb5067-930a-4213-ac01-cb8a98fee541,James Thompson,All ISPN Technicians; All ISPN Employee's,1, 00:05:19.077, 00:00:14.387, 00:14:56.743, 00:00:15.000,1,,Tech Center, 00:04:58.914
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,398740cf-7029-4f97-821e-6696f4a4be95,Jason Luu,All ISPN Technicians; All ISPN Employee's,342, 00:07:38.867, 00:06:57.753, 00:01:49.107, 00:00:15.000,142,35,Tech Center, 00:00:37.423
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,4ba32cae-bd82-4f1d-bfac-a1da96acf590,Jason Seal,All ISPN Technicians; All ISPN Employee's,89, 00:16:02.207, 00:15:44.480, 00:00:58.496, 00:00:14.910,13,4,Tech Center, 00:00:05.805
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6dd31e57-82b5-4ffd-aa6d-e70a1dc9a91f,Jaylen Esposito,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),536, 00:08:12.467, 00:07:49.603, 00:01:42.522, 00:00:14.894,69,43,Tech Center, 00:00:10.933
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6904ca66-c7e5-4ab7-a16e-72ae6a6ca4b3,Jeff Stokes,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),527, 00:13:24.867, 00:12:57.319, 00:01:40.507, 00:00:15.000,80,37,Tech Center, 00:00:13.815
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a0c9f8ed-8582-44e1-b1be-8897f09f41fe,Jeremy Armstrong,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),600, 00:10:42.067, 00:10:14.316, 00:01:52.811, 00:00:15.000,115,49,Tech Center, 00:00:18.911
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,5bddda0b-86b3-4d85-9e31-6e88e5909139,Jessica Ortega,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),395, 00:07:16.765, 00:06:56.309, 00:02:26.801, 00:00:15.000,69,26,Tech Center, 00:00:13.070
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6d32e80a-f784-4b69-afce-d8700558b2f6,Jim McMeen,All ISPN Technicians; All ISPN Employee's,640, 00:12:45.567, 00:12:28.359, 00:01:02.636, 00:00:15.000,14,63,Tech Center, 00:00:01.265
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,7be0a1c1-7c19-4ec5-930e-db61eacf8c61,Jimmie Klein,All ISPN Technicians; All ISPN Employee's,326, 00:08:54.495, 00:08:37.655, 00:01:30.098, 00:00:14.982,25,17,Tech Center, 00:00:06.104
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d0dafb90-6506-4198-af2d-4a164b324c1a,Joel Long,All ISPN Technicians; All ISPN Employee's,147, 00:09:51.597, 00:09:37.653,, 00:00:15.000,,16,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,731236ca-e4ef-4328-b567-bec75019b814,Jon Fogarty,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),591, 00:09:08.756, 00:08:31.438, 00:01:51.627, 00:00:15.000,143,29,Tech Center, 00:00:23.440
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2eda3983-378f-4c30-8879-e76138b80ee4,Josef Matson,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),783, 00:08:55.066, 00:08:41.090, 00:01:29.989, 00:00:14.997,28,56,Tech Center, 00:00:02.815
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,e26f719d-57d7-47a8-8112-679c14d20157,Joseph Arnold,All ISPN Technicians; All ISPN Employee's,525, 00:09:10.617, 00:09:22.014, 00:00:25.676, 00:00:14.991,69,38,Tech Center, 00:00:01.946
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3e53ba69-aa20-4def-be4d-96672808de93,Josh Adams,All ISPN Technicians; All ISPN Employee's,672, 00:11:06.599, 00:10:58.758, 00:00:41.950, 00:00:14.984,12,45,Tech Center, 00:00:00.640
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2d2abba6-2285-4100-9c3e-7e83f67a0dc3,Joshua Hines,All ISPN Technicians; All ISPN Employee's,431, 00:09:20.210, 00:08:45.870, 00:02:12.866, 00:00:15.000,97,13,Tech Center, 00:00:24.089
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0b8251d5-502d-4788-b880-d67b61a0d3d4,Joshua Livingston,All ISPN Technicians; All ISPN Employee's,508, 00:11:10.633, 00:09:25.673, 00:03:01.942, 00:00:14.955,306,27,Tech Center, 00:01:31.419
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3af2710e-c549-43c5-9016-efb1cb86d374,Juniper Kapfer,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),383, 00:10:16.489, 00:09:58.145, 00:01:47.943, 00:00:15.000,23,34,Tech Center, 00:00:05.468
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,adcb4d5c-777c-43e8-8dbf-831befe5a375,Justice Derringer,All ISPN Technicians; All ISPN Employee's,884, 00:06:48.038, 00:06:36.198, 00:01:34.840, 00:00:14.959,26,77,Tech Center, 00:00:02.201
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,1aa1c86a-aea1-49fe-86e4-c5d4375b2091,Justin Earley-Buckley,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,8d0788ff-570e-466a-8c0f-4c4a69abe31d,Katherine Zink,All ISPN Technicians; All ISPN Employee's,115, 00:15:12.133, 00:14:46.588, 00:01:40.204, 00:00:15.000,18,10,Tech Center, 00:00:11.488
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,dfee7f01-4e8d-4ffc-9f5c-e68108795f4c,Kevin Crowe,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),377, 00:10:49.278, 00:10:27.023, 00:01:05.991, 00:00:15.000,68,23,Tech Center, 00:00:09.047
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,43f618e7-f1ed-4034-b9bc-880ab080be63,Kevin Heckart,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,17, 00:03:10.449, 00:02:51.130, 00:02:05.057, 00:00:14.651,16,7,Tech Center, 00:00:05.799
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,cbc1bfe4-d93d-4796-a8c2-eec954f8e98f,Kyle Bonpua,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),1, 00:09:39.000, 00:09:48.556,, 00:00:15.000,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,7d623a24-65fb-4d01-987c-2f72ff039499,Lake Moore,All ISPN Technicians; All ISPN Employee's,621, 00:12:51.011, 00:11:41.981, 00:02:08.778, 00:00:15.000,355,27,Tech Center, 00:00:59.603
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d9a495b1-9eec-4422-a2dd-186b6af0712c,Leyla Kadymova,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,eabcdc42-63c7-4159-a113-6eab99664a94,Logan Wells,All ISPN Technicians; All ISPN Employee's,79, 00:17:03.017, 00:15:27.948, 00:03:42.647, 00:00:15.000,43,4,Tech Center, 00:01:20.452
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2dae0740-9d41-4ea4-9c08-6962fb6d4e81,Luis Vargas,All ISPN Technicians; All ISPN Employee's,594, 00:11:00.781, 00:09:20.408, 00:03:37.639, 00:00:15.000,309,47,Tech Center, 00:01:34.986
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,43b53526-9980-4c77-b466-90efe46e4dd9,Lyric Randle,All ISPN Technicians; All ISPN Employee's,750, 00:07:07.899, 00:06:52.270, 00:01:17.636, 00:00:14.922,6,96,Tech Center, 00:00:00.445
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,4a110118-e68d-4b95-a759-eadbfa0d4d27,Mae Transier,All ISPN Technicians; All ISPN Employee's,366, 00:12:54.934, 00:10:50.913, 00:03:49.756, 00:00:15.000,279,22,Tech Center, 00:02:01.635
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,6767bed4-92fe-492e-b08c-3bef55f11aaf,Marc Hawkinson,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),428, 00:08:28.496, 00:08:09.028, 00:00:38.385, 00:00:15.000,39,39,Tech Center, 00:00:03.240
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0d4997fc-79c7-40df-9ec4-e5087119e1c4,Marcus Gaither,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians); Backline,350, 00:08:01.832, 00:07:31.233, 00:01:41.946, 00:00:15.000,92,42,Tech Center, 00:00:21.511
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,dbf9ebbd-4e91-41b7-8004-4ca8fcce104b,Matt Bianco,All ISPN Technicians; All ISPN Employee's,635, 00:11:51.426, 00:11:00.458, 00:02:40.715, 00:00:15.000,170,32,Tech Center, 00:00:39.031
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,4660e7ff-6233-4c13-8ae6-625abf04cf37,Matt Michaelsen,All ISPN Technicians; All ISPN Employee's,285, 00:16:19.748, 00:16:14.931, 00:02:23.633, 00:00:14.934,8,13,Tech Center, 00:00:03.209
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,cc37380f-99f3-4913-acb8-5a5a383bfabd,Matthew Devlin,All ISPN Technicians; All ISPN Employee's,547, 00:12:14.171, 00:12:01.838, 00:01:17.377, 00:00:15.000,3,17,Tech Center, 00:00:00.379
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b2f403c7-d0bd-4ace-a72e-336934de92da,Matthew Koons,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians); Backline,186, 00:06:29.115, 00:04:43.549, 00:05:24.901, 00:00:15.000,75,1,Tech Center, 00:01:28.932
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ab917bba-285a-45e8-9c0b-e7cc05e59d1c,Max McAnany,All ISPN Technicians; All ISPN Employee's,762, 00:09:52.391, 00:08:40.856, 00:02:01.282, 00:00:14.952,444,43,Tech Center, 00:01:01.612
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b8dd7ce6-fb41-4834-99ef-493bd67a6b7d,Megan McCaffrey,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),80, 00:04:16.920, 00:03:51.225, 00:01:52.380, 00:00:15.000,31,17,Tech Center, 00:00:11.690
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,0f439079-c86b-4f5c-8014-0cd81240b6f4,Megan Webb,All ISPN Technicians; All ISPN Employee's; Backline,3, 00:01:34.507, 00:01:07.528, 00:00:15.753, 00:00:15.000,2,2,Tech Center, 00:00:00.346
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d95f436e-9c52-49b9-9724-c49021c6b6a9,Michael Frisch,All ISPN Technicians; All ISPN Employee's,278, 00:08:20.040, 00:08:24.129, 00:00:37.088, 00:00:15.000,4,8,Tech Center, 00:00:00.400
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,82edf561-2e8d-4b57-a31a-dd641e85b9d0,Michael Grosser,All ISPN Technicians; All ISPN Employee's,521, 00:13:04.599, 00:12:04.164, 00:02:07.448, 00:00:14.988,234,34,Tech Center, 00:00:49.051
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,9dfc38f6-c6e3-4a17-8d5a-1146724fb526,Nate Sturtz,All ISPN Technicians; All ISPN Employee's,558, 00:09:52.467, 00:08:27.216, 00:02:30.990, 00:00:14.986,278,34,Tech Center, 00:01:12.246
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,091c0eb3-7cdc-43cf-ac5e-2f1a7bba4483,Nick Rhodes,All ISPN Technicians; All ISPN Employee's,48, 00:09:10.346, 00:08:54.328,, 00:00:15.000,,1,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,210995af-486f-4588-a108-1ccd233f26a0,Paige Rombou,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),86, 00:09:57.579, 00:09:09.794, 00:02:29.756, 00:00:15.000,19,4,QC, 00:00:32.705
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,80f5275e-8330-454a-902b-a60723a7e3c2,Phalen Williams,All ISPN Technicians; All ISPN Employee's,371, 00:15:54.935, 00:14:48.192, 00:02:39.351, 00:00:15.000,181,20,Tech Center, 00:01:00.978
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a97fd05d-ace7-4ce1-84a4-50095a33bfda,Phil Spencer,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),503, 00:08:00.079, 00:07:31.796, 00:00:50.481, 00:00:15.000,140,68,Tech Center, 00:00:12.377
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,b71fd091-b54c-46e1-8ae4-bc13c8d2276c,Phyllis Conley,All ISPN Technicians; All ISPN Employee's,114, 00:12:40.483, 00:12:29.240, 00:03:00.543, 00:00:15.000,8,2,Tech Center, 00:00:10.942
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,228a4732-8a34-4fc4-bfbd-a9755dbab85c,Rachel Powell,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,7b38ca3a-155b-49da-b0a9-951c78b7b02e,Rich Vonder Haar,All ISPN Technicians; All ISPN Employee's,771, 00:08:28.256, 00:08:14.716, 00:00:57.721, 00:00:14.601,7,34,Tech Center, 00:00:00.480
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,fa8544aa-3810-41bf-a693-dc0891a52f4e,Robert Crenshaw,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),237, 00:14:21.227, 00:11:41.299, 00:04:39.440, 00:00:15.000,154,4,Tech Center, 00:02:35.919
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2cee6b8b-6e0c-4391-8e30-529213768239,Robert White,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),284, 00:10:15.805, 00:10:04.609, 00:01:49.242, 00:00:14.918,55,3,Tech Center, 00:00:13.118
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,08072b69-81af-432c-996a-ccb17ca0b090,Russell Caldwell,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,8, 00:02:08.628, 00:01:45.875,, 00:00:15.000,,4,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a2be32cf-aef0-4643-9c8c-26c9b5e8a2dc,Ryan Luther,All ISPN Technicians; All ISPN Employee's,571, 00:07:24.879, 00:07:09.981, 00:01:50.403, 00:00:15.000,7,34,Tech Center, 00:00:01.111
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,d86177b4-f431-468d-8e0b-c2e5ebfa69b0,Sam Izokpu,All ISPN Technicians; All ISPN Employee's,729, 00:08:32.372, 00:08:15.924, 00:01:33.089, 00:00:14.982,52,23,Tech Center, 00:00:05.910
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,a9314323-f6ef-43c9-96de-0adb6d6ff863,Scotty Smith,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),516, 00:09:44.966, 00:09:25.975, 00:01:45.226, 00:00:14.965,52,37,Tech Center, 00:00:09.450
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3fcaef7f-b715-4c5a-93dc-55727634ca25,Sera Taeschner,All ISPN Technicians; All ISPN Employee's,574, 00:11:04.168, 00:09:28.323, 00:02:30.802, 00:00:15.000,355,47,Tech Center, 00:01:22.361
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,828988b2-dec3-456e-aafd-98f3eb70ef0a,Seth Chanove,All ISPN Technicians; All ISPN Employee's,506, 00:12:44.822, 00:10:33.485, 00:03:08.837, 00:00:15.000,352,30,Tech Center, 00:01:55.803
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,916fea07-6773-4869-8926-0212add7b0bd,Sheldon Hill,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),450, 00:10:30.328, 00:09:52.439, 00:02:04.974, 00:00:15.000,96,23,Tech Center, 00:00:23.206
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,592e4875-74a0-4b6b-a0c3-faf0b1489347,Skylar Bean,All ISPN Technicians; All ISPN Employee's,573, 00:10:01.275, 00:08:47.273, 00:03:45.976, 00:00:15.000,202,27,Tech Center, 00:01:05.303
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,dd4593a1-9b7f-43c1-8718-02bad6986123,Terrell Morris,All ISPN Technicians; L3's and Advanced Tech's Only; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),352, 00:10:33.959, 00:10:15.172, 00:02:48.609, 00:00:14.939,24,10,Tech Center, 00:00:09.704
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,2a23fdcd-ba26-434e-9767-b9315ba1c2a9,Tim Dawson,All ISPN Technicians; All ISPN Employee's,673, 00:08:34.774, 00:08:10.781, 00:01:01.669, 00:00:15.000,118,73,Tech Center, 00:00:09.847
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,01e09ffe-8fbf-48ee-8aa3-6c046c7c1c86,Tim Paulauskas,L3's and Advanced Tech's Only; All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),456, 00:10:04.934, 00:09:54.200, 00:03:29.086, 00:00:15.000,12,19,Tech Center, 00:00:04.968
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,91e52c61-f722-46e5-9b91-0ba9ec134a41,Tom Covey,All ISPN Technicians; All ISPN Employee's; Supervsor's Only; Backline,5, 00:02:05.886, 00:01:48.269, 00:01:07.741, 00:00:13.168,1,2,Tech Center, 00:00:00.451
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,095a05cf-fb45-46f6-82e9-bad7b9aacb22,Tony Pham,All ISPN Technicians; All ISPN Employee's,733, 00:07:53.203, 00:07:43.477, 00:01:17.927, 00:00:15.000,12,59,Tech Center, 00:00:00.927
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,3900d32e-36f6-47b5-8c1f-6c4eba5177f0,Tyson Hailey,All ISPN Technicians; All ISPN Employee's,349, 00:09:59.165, 00:09:38.638, 00:01:38.283, 00:00:14.920,22,25,Tech Center, 00:00:05.544
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,34824c60-322e-401d-abb2-92a088be8364,Victor Heiar,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),592, 00:07:14.547, 00:06:53.664, 00:00:46.038, 00:00:15.000,87,51,Tech Center, 00:00:06.258
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,4da91776-d225-4ad9-b645-930099c7f47f,Vincent Watson Jr,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+,,,,,,,,,,,,,,,,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ed091ed2-ea92-458d-a214-39936ba09cda,Whitney Trahin,All ISPN Technicians; All ISPN Employee's,490, 00:12:12.112, 00:10:36.516, 00:03:12.625, 00:00:14.958,313,32,Tech Center, 00:01:31.908
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,afded635-13e0-4bb5-ba8f-bb610b31bc64,Will Scheffer,All ISPN Technicians; All ISPN Employee's; Backline,4, 00:01:44.850, 00:01:18.551, 00:00:38.251, 00:00:15.000,1,1,Tech Center, 00:00:00.195
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,961c7c13-c8e0-4f7a-8af7-e9b79468de49,Yen Nguyen,All ISPN Technicians; All ISPN Employee's,436, 00:08:43.554, 00:08:14.878, 00:02:09.802, 00:00:15.000,58,21,Tech Center, 00:00:15.816
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,230de450-0967-4d42-af1d-fc3e007883f2,Zac Freedle,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),369, 00:12:11.771, 00:12:03.466, 00:02:19.118, 00:00:15.000,3,5,Tech Center, 00:00:01.025
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,bb2a4aae-ffff-489d-86a1-616b87721cf7,Zach Bernier,All ISPN Technicians; All ISPN Employee's,,,,,,,,Tech Center,
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,ebc07db0-a2e8-4aee-9523-10c530432189,Zach Jacobs,All ISPN Technicians; All ISPN Employee's,753, 00:10:51.337, 00:10:33.795, 00:00:18.152, 00:00:15.000,80,48,Tech Center, 00:00:01.737
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,17d5db12-e019-46f6-8b48-01c35020aa4e,Zachary Vany,All ISPN Technicians; All ISPN Employee's; ISPN - Master Work Group (All L1/2/3 technicians),649, 00:07:23.535, 00:07:11.483, 00:00:02.852, 00:00:14.993,1,52,Tech Center, 00:00:00.003
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,25258c28-b29a-45a4-959f-9768fdc89468,Zee Young,All ISPN Technicians; All ISPN Employee's,676, 00:09:33.648, 00:09:02.287, 00:02:10.994, 00:00:15.000,117,43,Tech Center, 00:00:18.289
+7/25/25 00:00,8/26/25 00:00,TRUE,,voice,9905b5ab-b477-47e8-8407-7467e8cf3a52,Zion Stinnett,All ISPN Technicians; All ISPN Employee's,103, 00:07:07.288, 00:04:34.185, 00:02:58.136, 00:00:14.546,90,40,Tech Center, 00:02:25.747
